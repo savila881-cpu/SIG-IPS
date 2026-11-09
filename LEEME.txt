@@ -1,0 +1,16 @@
+SIG-IPS - Front-end académico
+
+Archivos:
+- index.html: estructura de las secciones.
+- styles.css: estilos visuales.
+- script.js: interacciones básicas.
+- img/: ilustraciones SVG para el ejercicio.
+
+Cómo probar:
+1. Descomprime la carpeta.
+2. Abre index.html con Chrome o Edge.
+3. Registra una solicitud de prueba.
+4. Copia el radicado que aparece y búscalo en "Consultar solicitud".
+5. Revisa la tabla del Panel de gestión.
+
+Nota: este es un prototipo académico que funciona en el navegador. Los registros no se guardan en una base de datos ni se envían a un sistema institucional. Los datos iniciales son ejemplos.
